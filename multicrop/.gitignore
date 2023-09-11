@@ -1,6 +1,0 @@
-tmp
-build
-*.egg-info
-*.so
-*.png
-__pycache__

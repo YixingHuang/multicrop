@@ -1,0 +1,9 @@
+README.md
+setup.py
+multicrop.egg-info/PKG-INFO
+multicrop.egg-info/SOURCES.txt
+multicrop.egg-info/dependency_links.txt
+multicrop.egg-info/top_level.txt
+src/extract_glimpses.cpp
+src/extract_glimpses_cuda.cu
+src/gpu_ops.cpp
